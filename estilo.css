@@ -1,0 +1,36 @@
+#boton{
+    margin: 0px auto;
+    width: 35%;
+}
+
+#tablaResumen{
+    width: 95%;
+    margin: 0px auto;
+}
+
+#tablaResumen th{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#tablaResumen td{
+    border-bottom: 1px solid black;
+}
+
+#tablaResumenFinal{
+    width: 70%;
+    margin: 0px auto;
+}
+
+#tablaResumenFinal th{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#tablaResumenFinal td{
+    border-bottom: 1px solid black;
+}
+#checket{
+    width: 60%;
+    margin: 0px auto;
+}
